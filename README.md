@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/VierAI/DalamudPlugins/main/vierai.json
 | **Chat 2** (VierAI-fied) | [VierAI/ChatTwo](https://github.com/VierAI/ChatTwo) | Fixed FPS drops with long chat history and added features such as drag-to-select text with Ctrl+C and Copy link, and folding spammy system lines into one clickable line. |
 | **Chat Bubbles+** (VierAI-fied) | [VierAI/ChatBubbles](https://github.com/VierAI/ChatBubbles) | Shows chat as the game's own speech bubbles. Replaces the official Chat Bubbles+. |
 | **XIVDeck** (VierAI-fied) | [VierAI/XIVDeck](https://github.com/VierAI/XIVDeck) | Use an Elgato Stream Deck as a hotbar. Adds real action and hotbar icons on your keys and lighter hotbar scanning. Needs the XIVDeck Stream Deck plugin too. |
-| **Wholist** (VierAI-fied) | [VierAI/Wholist](https://github.com/VierAI/Wholist) | A compact list of nearby players, like WoW's `/who`. |
+| **Wholist** (VierAI-fied) | [VierAI/Wholist](https://github.com/VierAI/Wholist) | A compact list of nearby players, like WoW's `/who`. Adds an Open in Messenger option and a lighter nearby-player counter. |
 | **Friend Status Sweep** | [VierAI/FriendStatusSweep](https://github.com/VierAI/FriendStatusSweep) | Original VierAI plugin. Refreshes every off-world friend's online status one at a time and tells you when it's done. |
 
 Versions are always current in `/xlplugins`.

@@ -6,6 +6,10 @@
 > [!WARNING]
 > **AI "vibe code" disclaimer:** these forks are built with heavy AI assistance. They are tested in real play, but use them at your own risk. They are unofficial and not endorsed by the original authors.
 
+> [!CAUTION]
+> **UNINSTALL the official plugin before installing a VierAI fork. Disabling it is NOT enough.**
+> A disabled official copy can still clash with the fork (same settings, commands or hooks), and the fork won't work right. In `/xlplugins`, open **Installed Plugins**, find the official version and click **Uninstall**, then install the VierAI-fied one.
+
 ## 🧩 Dalamud custom repo
 
 ```
@@ -19,10 +23,18 @@ https://raw.githubusercontent.com/VierAI/DalamudPlugins/main/vierai.json
 
 ## 📦 Plugins
 
-| Plugin | Version | Source | Notes |
-|---|---|---|---|
-| **PSync** (PlayerSync, VierAI-fied) | 1.15.5.1209 | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | **!!! YOU MUST UNINSTALL THE OFFICIAL PLAYERSYNC FIRST !!!** |
-| *More coming soon* | | | |
+| Plugin | Source | Notes |
+|---|---|---|
+| **PlayerSync** (VierAI-fied) | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | Syncs your Penumbra mods and Glamourer look with paired players. **Uninstall the official PlayerSync first.** |
+| **Customize+** (VierAI-fied) | [VierAI/CustomizePlus](https://github.com/VierAI/CustomizePlus) | Edit bone scaling to customize your character past the game's limits. Replaces the official Customize+. |
+| **XIV Instant Messenger** (VierAI-fied) | [VierAI/XIVInstantMessenger](https://github.com/VierAI/XIVInstantMessenger) | A separate window for each direct-message conversation. |
+| **Chat 2** (VierAI-fied) | [VierAI/ChatTwo](https://github.com/VierAI/ChatTwo) | A full replacement chat window with unlimited tabs, filters and colours. |
+| **Chat Bubbles+** (VierAI-fied) | [VierAI/ChatBubbles](https://github.com/VierAI/ChatBubbles) | Shows chat as the game's own speech bubbles. Replaces the official Chat Bubbles+. |
+| **XIVDeck** (VierAI-fied) | [VierAI/XIVDeck](https://github.com/VierAI/XIVDeck) | Use an Elgato Stream Deck as a hotbar. Needs the XIVDeck Stream Deck plugin too. |
+| **Wholist** (VierAI-fied) | [VierAI/Wholist](https://github.com/VierAI/Wholist) | A compact list of nearby players, like WoW's `/who`. |
+| **Friend Status Sweep** | [VierAI/FriendStatusSweep](https://github.com/VierAI/FriendStatusSweep) | Original VierAI plugin, nothing to uninstall. Refreshes every off-world friend's online status one at a time and tells you when it's done. |
+
+Versions are always current in `/xlplugins`.
 
 ## 🙏 Credits
 

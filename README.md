@@ -25,14 +25,14 @@ https://raw.githubusercontent.com/VierAI/DalamudPlugins/main/vierai.json
 
 | Plugin | Source | Notes |
 |---|---|---|
-| **PlayerSync** (VierAI-fied) | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | Syncs your Penumbra mods and Glamourer look with paired players. **Uninstall the official PlayerSync first.** |
-| **Customize+** (VierAI-fied) | [VierAI/CustomizePlus](https://github.com/VierAI/CustomizePlus) | Edit bone scaling to customize your character past the game's limits. Replaces the official Customize+. |
-| **XIV Instant Messenger** (VierAI-fied) | [VierAI/XIVInstantMessenger](https://github.com/VierAI/XIVInstantMessenger) | A separate window for each direct-message conversation. |
-| **Chat 2** (VierAI-fied) | [VierAI/ChatTwo](https://github.com/VierAI/ChatTwo) | A full replacement chat window with unlimited tabs, filters and colours. |
+| **PlayerSync** (VierAI-fied) | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | Bug and feature fixes. **Uninstall the official PlayerSync first.** |
+| **Customize+** (VierAI-fied) | [VierAI/CustomizePlus](https://github.com/VierAI/CustomizePlus) | Performance fixes. |
+| **XIV Instant Messenger** (VierAI-fied) | [VierAI/XIVInstantMessenger](https://github.com/VierAI/XIVInstantMessenger) | Bug and feature fixes. |
+| **Chat 2** (VierAI-fied) | [VierAI/ChatTwo](https://github.com/VierAI/ChatTwo) | Bug and feature fixes. |
 | **Chat Bubbles+** (VierAI-fied) | [VierAI/ChatBubbles](https://github.com/VierAI/ChatBubbles) | Shows chat as the game's own speech bubbles. Replaces the official Chat Bubbles+. |
 | **XIVDeck** (VierAI-fied) | [VierAI/XIVDeck](https://github.com/VierAI/XIVDeck) | Use an Elgato Stream Deck as a hotbar. Needs the XIVDeck Stream Deck plugin too. |
 | **Wholist** (VierAI-fied) | [VierAI/Wholist](https://github.com/VierAI/Wholist) | A compact list of nearby players, like WoW's `/who`. |
-| **Friend Status Sweep** | [VierAI/FriendStatusSweep](https://github.com/VierAI/FriendStatusSweep) | Original VierAI plugin, nothing to uninstall. Refreshes every off-world friend's online status one at a time and tells you when it's done. |
+| **Friend Status Sweep** | [VierAI/FriendStatusSweep](https://github.com/VierAI/FriendStatusSweep) | Original VierAI plugin. Refreshes every off-world friend's online status one at a time and tells you when it's done. |
 
 Versions are always current in `/xlplugins`.
 

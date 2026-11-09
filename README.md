@@ -25,11 +25,11 @@ https://raw.githubusercontent.com/VierAI/DalamudPlugins/main/vierai.json
 
 | Plugin | Source | Notes |
 |---|---|---|
-| **PlayerSync** (VierAI-fied) | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | Bug and feature fixes. **Uninstall the official PlayerSync first.** |
+| **PlayerSync** (VierAI-fied) | [VierAI/MareSynchronosClient](https://github.com/VierAI/MareSynchronosClient) | Fixed freezes and half-loaded players, and added features such as a Noises window to mute modded sounds, five-tier download priority, an optional memory budget, a UID blocklist, and a one-line pair-request window. |
 | **Customize+** (VierAI-fied) | [VierAI/CustomizePlus](https://github.com/VierAI/CustomizePlus) | Performance fixes to how character bone changes are applied. |
 | **XIV Instant Messenger** (VierAI-fied) | [VierAI/XIVInstantMessenger](https://github.com/VierAI/XIVInstantMessenger) | Fixed interface issues and added features such as drag-to-select text (down to single characters, across messages), Ctrl+C and right-click copy, Copy link, and a scroll position that holds while you read back. |
 | **Chat 2** (VierAI-fied) | [VierAI/ChatTwo](https://github.com/VierAI/ChatTwo) | Fixed FPS drops with long chat history and added features such as drag-to-select text with Ctrl+C and Copy link, and folding spammy system lines into one clickable line. |
-| **Chat Bubbles+** (VierAI-fied) | [VierAI/ChatBubbles](https://github.com/VierAI/ChatBubbles) | Shows chat as the game's own speech bubbles. Replaces the official Chat Bubbles+. |
+| **Chat Bubbles+** (VierAI-fied) | [VierAI/ChatBubbles](https://github.com/VierAI/ChatBubbles) | Fixed the settings crash when Dalamud's chat-type list outgrew the plugin's channel slots, and added slider controls for bubble timer, scales, yalm distance and queue (Ctrl+click to type). |
 | **XIVDeck** (VierAI-fied) | [VierAI/XIVDeck](https://github.com/VierAI/XIVDeck) | Use an Elgato Stream Deck as a hotbar. Adds real action and hotbar icons on your keys and lighter hotbar scanning. Needs the XIVDeck Stream Deck plugin too. |
 | **Wholist** (VierAI-fied) | [VierAI/Wholist](https://github.com/VierAI/Wholist) | A compact list of nearby players, like WoW's `/who`. Adds an Open in Messenger option and a lighter nearby-player counter. |
 | **Friend Status Sweep** | [VierAI/FriendStatusSweep](https://github.com/VierAI/FriendStatusSweep) | Original VierAI plugin. Refreshes every off-world friend's online status one at a time and tells you when it's done. |
